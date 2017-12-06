@@ -111,15 +111,11 @@ Verbal irony - say something contradicting to what they intend to do
 # Miscellaneous
 
 **TYPES OF CONFLICT**
-Internal|External
----|---
-man vs man (onself)|man vs man
- |man vs nature (environment)
- |man vs society
- |man vs supernatural
- |man vs unknown
- |man vs time
- |man vs technology
+_Internal_
+man vs man (onself)
+
+_External_
+man vs man || man vs nature (environment) || man vs society || man vs supernatural || man vs unknown || man vs time || man vs technology
  
 **Reasons for studying Literature**
 
